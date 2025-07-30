@@ -1,0 +1,31 @@
+CustomerID,CustomerName,Segment,Region
+C1000,Customer 38,Home Office,South
+C1001,Customer 74,Consumer,East
+C1002,Customer 6,Home Office,West
+C1003,Customer 99,Corporate,East
+C1004,Customer 30,Consumer,North
+C1005,Customer 36,Corporate,South
+C1006,Customer 21,Corporate,South
+C1007,Customer 27,Home Office,South
+C1008,Customer 90,Home Office,East
+C1009,Customer 78,Home Office,West
+C1010,Customer 69,Home Office,West
+C1011,Customer 21,Corporate,North
+C1012,Customer 35,Home Office,West
+C1013,Customer 88,Corporate,East
+C1014,Customer 30,Consumer,South
+C1015,Customer 52,Corporate,East
+C1016,Customer 28,Home Office,South
+C1017,Customer 28,Home Office,North
+C1018,Customer 51,Home Office,North
+C1019,Customer 19,Corporate,West
+C1020,Customer 32,Home Office,South
+C1021,Customer 96,Home Office,North
+C1022,Customer 75,Corporate,South
+C1023,Customer 29,Consumer,North
+C1024,Customer 12,Consumer,East
+C1025,Customer 20,Home Office,West
+C1026,Customer 88,Corporate,East
+C1027,Customer 50,Corporate,North
+C1028,Customer 68,Corporate,East
+C1029,Customer 88,Home Office,East
